@@ -11,7 +11,7 @@ export const CheckoutItemContainer = styled.div`
 `;
 
 export const ImageContainer = styled.div`
-  width: 23%;
+  width: 21%;
   padding-right: 15px;
   img {
     width: 100%;
@@ -20,7 +20,8 @@ export const ImageContainer = styled.div`
 `;
 
 export const TextContainer = styled.span`
-  width: 23%;
+  width: 21%;
+  text-align: center;
 `;
 
 export const QuantityContainer = styled(TextContainer)`
@@ -30,6 +31,7 @@ export const QuantityContainer = styled(TextContainer)`
   }
   div {
     cursor: pointer;
+    margin: 0 auto;
   }
 `;
 
