@@ -10,7 +10,7 @@ https://crowned-shop.herokuapp.com/
 
 **React.JS**, **Redux**, **Firebase**, **Stripe Payments**, **Styled components**
 
-There is a little nodejs server handling stripe payments but not much not consider.
+There is a little nodejs server handling stripe payments but not much to consider.
 
 ## Clone this repository
 
